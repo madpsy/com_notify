@@ -1,4 +1,4 @@
-bin/
-dist/
+# Build output is committed on purpose - the exe and installer are small enough
+# to ship straight from the repo. Rebuild them with build-installer.ps1.
 *.user
 *.suo
