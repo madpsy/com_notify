@@ -2,6 +2,8 @@
 
 A Windows tray utility for anyone who keeps asking *"which COM port did it get this time?"*
 
+![ComNotify notification showing COM6 connected](screenshots/screenshot.png)
+
 * Pops up a notification the moment a USB-to-serial adapter is **plugged in** — showing the COM
   port it was assigned — and again when one is **unplugged**.
 * Click the tray icon for a list of every serial port Windows knows about, including adapters
